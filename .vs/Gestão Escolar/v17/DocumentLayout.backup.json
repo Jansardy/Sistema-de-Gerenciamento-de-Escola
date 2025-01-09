@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Projetos\\Sistemass\\Gest\u00E3o Escolar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{368ED17D-0B63-47C6-9711-628209C4F0FD}|Formulario\\Formulario.csproj|c:\\projetos\\sistemass\\gest\u00E3o escolar\\formulario\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{368ED17D-0B63-47C6-9711-628209C4F0FD}|Formulario\\Formulario.csproj|solutionrelative:formulario\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{935C2B99-2AF6-455B-9C91-E82B124E9647}|CapaDeDados\\CapaDeDados.csproj|c:\\projetos\\sistemass\\gest\u00E3o escolar\\capadedados\\classedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935C2B99-2AF6-455B-9C91-E82B124E9647}|CapaDeDados\\CapaDeDados.csproj|solutionrelative:capadedados\\classedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{368ED17D-0B63-47C6-9711-628209C4F0FD}|Formulario\\Formulario.csproj|c:\\projetos\\sistemass\\gest\u00E3o escolar\\formulario\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{368ED17D-0B63-47C6-9711-628209C4F0FD}|Formulario\\Formulario.csproj|solutionrelative:formulario\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41CAC378-F0FA-4FFD-B633-463D45B22616}|CapaDeNegocio\\CapaDeNegocio.csproj|c:\\projetos\\sistemass\\gest\u00E3o escolar\\capadenegocio\\classnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41CAC378-F0FA-4FFD-B633-463D45B22616}|CapaDeNegocio\\CapaDeNegocio.csproj|solutionrelative:capadenegocio\\classnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC64C697-EDB4-4B57-A800-7A53D42DF99A}|CapaDeEntidade\\CapaDeEntidade.csproj|c:\\projetos\\sistemass\\gest\u00E3o escolar\\capadeentidade\\classentidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC64C697-EDB4-4B57-A800-7A53D42DF99A}|CapaDeEntidade\\CapaDeEntidade.csproj|solutionrelative:capadeentidade\\classentidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FrmPrincipal.cs",
-              "DocumentMoniker": "C:\\Projetos\\Sistemass\\Gest\u00E3o Escolar\\Formulario\\FrmPrincipal.cs",
-              "RelativeDocumentMoniker": "Formulario\\FrmPrincipal.cs",
-              "ToolTip": "C:\\Projetos\\Sistemass\\Gest\u00E3o Escolar\\Formulario\\FrmPrincipal.cs",
-              "RelativeToolTip": "Formulario\\FrmPrincipal.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAlwCEAAABJAAAAAAAAAA==",
+              "Title": "ClassNegocio.cs",
+              "DocumentMoniker": "C:\\Projetos\\Sistemass\\Gest\u00E3o Escolar\\CapaDeNegocio\\ClassNegocio.cs",
+              "RelativeDocumentMoniker": "CapaDeNegocio\\ClassNegocio.cs",
+              "ToolTip": "C:\\Projetos\\Sistemass\\Gest\u00E3o Escolar\\CapaDeNegocio\\ClassNegocio.cs",
+              "RelativeToolTip": "CapaDeNegocio\\ClassNegocio.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T21:26:13.411Z",
+              "WhenOpened": "2025-01-09T20:33:04.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassEntidade.cs",
+              "DocumentMoniker": "C:\\Projetos\\Sistemass\\Gest\u00E3o Escolar\\CapaDeEntidade\\ClassEntidade.cs",
+              "RelativeDocumentMoniker": "CapaDeEntidade\\ClassEntidade.cs",
+              "ToolTip": "C:\\Projetos\\Sistemass\\Gest\u00E3o Escolar\\CapaDeEntidade\\ClassEntidade.cs",
+              "RelativeToolTip": "CapaDeEntidade\\ClassEntidade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T20:31:34.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FrmPrincipal.cs [Design]",
-              "DocumentMoniker": "C:\\Projetos\\Sistemass\\Gest\u00E3o Escolar\\Formulario\\FrmPrincipal.cs",
-              "RelativeDocumentMoniker": "Formulario\\FrmPrincipal.cs",
-              "ToolTip": "C:\\Projetos\\Sistemass\\Gest\u00E3o Escolar\\Formulario\\FrmPrincipal.cs [Design]",
-              "RelativeToolTip": "Formulario\\FrmPrincipal.cs [Design]",
+              "Title": "ClasseDados.cs",
+              "DocumentMoniker": "C:\\Projetos\\Sistemass\\Gest\u00E3o Escolar\\CapaDeDados\\ClasseDados.cs",
+              "RelativeDocumentMoniker": "CapaDeDados\\ClasseDados.cs",
+              "ToolTip": "C:\\Projetos\\Sistemass\\Gest\u00E3o Escolar\\CapaDeDados\\ClasseDados.cs",
+              "RelativeToolTip": "CapaDeDados\\ClasseDados.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAswGMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T20:31:27.301Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-09T20:25:41.685Z",
+              "EditorCaption": ""
             }
           ]
         }
