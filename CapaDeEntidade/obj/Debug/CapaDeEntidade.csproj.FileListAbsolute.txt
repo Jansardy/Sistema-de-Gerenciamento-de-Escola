@@ -1,0 +1,6 @@
+C:\Projetos\Sistemass\Gestão Escolar\CapaDeEntidade\bin\Debug\CapaDeEntidade.dll
+C:\Projetos\Sistemass\Gestão Escolar\CapaDeEntidade\bin\Debug\CapaDeEntidade.pdb
+C:\Projetos\Sistemass\Gestão Escolar\CapaDeEntidade\obj\Debug\CapaDeEntidade.csproj.AssemblyReference.cache
+C:\Projetos\Sistemass\Gestão Escolar\CapaDeEntidade\obj\Debug\CapaDeEntidade.csproj.CoreCompileInputs.cache
+C:\Projetos\Sistemass\Gestão Escolar\CapaDeEntidade\obj\Debug\CapaDeEntidade.dll
+C:\Projetos\Sistemass\Gestão Escolar\CapaDeEntidade\obj\Debug\CapaDeEntidade.pdb

@@ -1,0 +1,11 @@
+C:\Projetos\Sistemass\Gestão Escolar\CapaDeNegocio\bin\Debug\CapaDeNegocio.dll
+C:\Projetos\Sistemass\Gestão Escolar\CapaDeNegocio\bin\Debug\CapaDeNegocio.pdb
+C:\Projetos\Sistemass\Gestão Escolar\CapaDeNegocio\bin\Debug\CapaDeDados.dll
+C:\Projetos\Sistemass\Gestão Escolar\CapaDeNegocio\bin\Debug\CapaDeEntidade.dll
+C:\Projetos\Sistemass\Gestão Escolar\CapaDeNegocio\bin\Debug\CapaDeDados.pdb
+C:\Projetos\Sistemass\Gestão Escolar\CapaDeNegocio\bin\Debug\CapaDeEntidade.pdb
+C:\Projetos\Sistemass\Gestão Escolar\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.AssemblyReference.cache
+C:\Projetos\Sistemass\Gestão Escolar\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Projetos\Sistemass\Gestão Escolar\CapaDeNegocio\obj\Debug\CapaDeNe.701FBC6E.Up2Date
+C:\Projetos\Sistemass\Gestão Escolar\CapaDeNegocio\obj\Debug\CapaDeNegocio.dll
+C:\Projetos\Sistemass\Gestão Escolar\CapaDeNegocio\obj\Debug\CapaDeNegocio.pdb

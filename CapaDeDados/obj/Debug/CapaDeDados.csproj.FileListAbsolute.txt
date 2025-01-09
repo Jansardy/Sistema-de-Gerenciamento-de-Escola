@@ -1,0 +1,11 @@
+C:\Projetos\Sistemass\Gestão Escolar\CapaDeDados\bin\Debug\CapaDeDados.dll
+C:\Projetos\Sistemass\Gestão Escolar\CapaDeDados\bin\Debug\CapaDeDados.pdb
+C:\Projetos\Sistemass\Gestão Escolar\CapaDeDados\bin\Debug\CapaDeEntidade.dll
+C:\Projetos\Sistemass\Gestão Escolar\CapaDeDados\bin\Debug\CapaDeEntidade.pdb
+C:\Projetos\Sistemass\Gestão Escolar\CapaDeDados\obj\Debug\CapaDeDados.csproj.AssemblyReference.cache
+C:\Projetos\Sistemass\Gestão Escolar\CapaDeDados\obj\Debug\CapaDeDados.csproj.CoreCompileInputs.cache
+C:\Projetos\Sistemass\Gestão Escolar\CapaDeDados\obj\Debug\CapaDeDa.D71FCCC7.Up2Date
+C:\Projetos\Sistemass\Gestão Escolar\CapaDeDados\obj\Debug\CapaDeDados.dll
+C:\Projetos\Sistemass\Gestão Escolar\CapaDeDados\obj\Debug\CapaDeDados.pdb
+C:\Projetos\Sistemass\Gestão Escolar\CapaDeDados\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Projetos\Sistemass\Gestão Escolar\CapaDeDados\bin\Debug\System.Configuration.ConfigurationManager.xml
