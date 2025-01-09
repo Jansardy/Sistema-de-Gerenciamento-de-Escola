@@ -1,11 +1,13 @@
 ﻿using CapaDeEntidade;
 using CapaDeNegocio;
+using Formulario.Common;
 using System;
 using System.CodeDom.Compiler;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Drawing.Imaging;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -17,6 +19,7 @@ namespace Formulario
     {
         ClassEntidade objE = new ClassEntidade();
         ClassNegocio objN = new ClassNegocio();
+        CommonMethods cMethods = new CommonMethods();
 
         public FrmPrincipal()
         {
@@ -32,12 +35,19 @@ namespace Formulario
         {
             HoraData.Start();
             lblusuario.Text = "Usuário: " + frm_login.usuario_nome + "   Função: " + frm_login.usuario_geral;
-            if((frm_login.id_tipo == "T0001") || (frm_login.id_tipo == "T0002"))
+            if(frm_login.usuario_geral == "Administrador")
             {
                 picboxAluno.Enabled = true;
                 picboxCurso.Enabled = true;
                 picboxSala.Enabled = true;
                 picboxUser.Enabled = true;
+            }
+            else
+            {
+                cMethods.DisablePictureBox(picboxAluno);
+                cMethods.DisablePictureBox(picboxCurso);
+                cMethods.DisablePictureBox(picboxSala);
+                cMethods.DisablePictureBox(picboxUser);
             }
         }
 
