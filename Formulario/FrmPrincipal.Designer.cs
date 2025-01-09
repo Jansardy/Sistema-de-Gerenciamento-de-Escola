@@ -30,6 +30,7 @@
         {
             this.components = new System.ComponentModel.Container();
             this.pnlTop = new System.Windows.Forms.Panel();
+            this.picboxFechar = new System.Windows.Forms.PictureBox();
             this.pnlButtom = new System.Windows.Forms.Panel();
             this.lblhora = new System.Windows.Forms.Label();
             this.lblusuario = new System.Windows.Forms.Label();
@@ -42,14 +43,13 @@
             this.picboxSala = new System.Windows.Forms.PictureBox();
             this.picboxAluno = new System.Windows.Forms.PictureBox();
             this.HoraData = new System.Windows.Forms.Timer(this.components);
-            this.picboxFechar = new System.Windows.Forms.PictureBox();
             this.pnlTop.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.picboxFechar)).BeginInit();
             this.pnlButtom.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picboxUser)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picboxCurso)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picboxSala)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picboxAluno)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picboxFechar)).BeginInit();
             this.SuspendLayout();
             // 
             // pnlTop
@@ -61,6 +61,18 @@
             this.pnlTop.Name = "pnlTop";
             this.pnlTop.Size = new System.Drawing.Size(800, 62);
             this.pnlTop.TabIndex = 0;
+            // 
+            // picboxFechar
+            // 
+            this.picboxFechar.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.picboxFechar.Image = global::Formulario.Properties.Resources.ico_cancelar;
+            this.picboxFechar.Location = new System.Drawing.Point(755, 13);
+            this.picboxFechar.Name = "picboxFechar";
+            this.picboxFechar.Size = new System.Drawing.Size(32, 32);
+            this.picboxFechar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picboxFechar.TabIndex = 0;
+            this.picboxFechar.TabStop = false;
+            this.picboxFechar.Click += new System.EventHandler(this.picboxFechar_Click);
             // 
             // pnlButtom
             // 
@@ -192,18 +204,6 @@
             this.HoraData.Interval = 1000;
             this.HoraData.Tick += new System.EventHandler(this.HoraData_Tick);
             // 
-            // picboxFechar
-            // 
-            this.picboxFechar.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.picboxFechar.Image = global::Formulario.Properties.Resources.ico_cancelar;
-            this.picboxFechar.Location = new System.Drawing.Point(755, 13);
-            this.picboxFechar.Name = "picboxFechar";
-            this.picboxFechar.Size = new System.Drawing.Size(32, 32);
-            this.picboxFechar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.picboxFechar.TabIndex = 0;
-            this.picboxFechar.TabStop = false;
-            this.picboxFechar.Click += new System.EventHandler(this.picboxFechar_Click);
-            // 
             // FrmPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -226,13 +226,13 @@
             this.Text = "FrmPrincipal";
             this.Load += new System.EventHandler(this.FrmPrincipal_Load);
             this.pnlTop.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.picboxFechar)).EndInit();
             this.pnlButtom.ResumeLayout(false);
             this.pnlButtom.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picboxUser)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picboxCurso)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picboxSala)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picboxAluno)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picboxFechar)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
